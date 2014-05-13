@@ -7,7 +7,7 @@
 The objective is to get 4 in a row on a 5x5 grid. You can play against a computer or with your friends. We hope you enjoy the twists and challenges you encounter in this game.
 Features:
 - Leaderboards
-Compete against friends and show off your skills! Track your progress!
+    Compete against friends and show off your skills! Track your progress!
 - Achievements
 Try your luck at unlocking some achievements!
 - Dynamic Sound
