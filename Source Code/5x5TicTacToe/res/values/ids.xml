@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">415481666920</string>
+    
+    <string name="first_game">CgkI6LqM5YsMEAIQBw</string>
+    <string name="first_win">CgkI6LqM5YsMEAIQCQ</string>
+    <string name="champ">CgkI6LqM5YsMEAIQCA</string>
+    <string name="the_challenger">CgkI6LqM5YsMEAIQCw</string>
+    <string name="head_to_head">CgkI6LqM5YsMEAIQDA</string>
+    <string name="making_a_name">CgkI6LqM5YsMEAIQDw</string>
+    <string name="getting_good">CgkI6LqM5YsMEAIQEA</string>
+    <string name="addicted">CgkI6LqM5YsMEAIQDg</string>
+    
+    <string name="total_games_won">CgkI6LqM5YsMEAIQCg</string>
+    <string name="points">CgkI6LqM5YsMEAIQDQ</string>
+</resources>

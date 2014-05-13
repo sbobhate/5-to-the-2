@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparency" >
+    
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+	    <TextView
+	        android:id="@+id/show_achievements"
+	        android:text="@string/show_achievements"
+	        android:textSize="32sp"
+	        android:layout_margin="10dp"
+	        android:layout_width="wrap_content"
+	        android:layout_height="0dp"
+	        android:layout_weight="1"
+	        android:clickable="true"
+	        />
+	    
+	    <TextView 
+	        android:id="@+id/show_leaderboards"
+	        android:text="@string/show_leaderboards"
+	        android:textSize="32sp"
+	        android:layout_margin="10dp"
+	        android:layout_width="wrap_content"
+	        android:layout_height="0dp"
+	        android:layout_weight="1"
+	        android:clickable="true"
+	        />
+	    
+ 	   	<RelativeLayout 
+	        android:id="@+id/music_setting"
+	        android:layout_width="wrap_content"
+        	android:layout_height="0dp"
+        	android:layout_margin="10dp"
+        	android:layout_weight="1" >
+        	
+			<TextView 
+			   android:id="@+id/text"
+			   android:text="@string/music_setting"
+			   android:textSize="32sp"
+			   android:layout_height="wrap_content"
+			   android:layout_width="wrap_content"
+			   android:layout_centerVertical="true" />
+			
+			<ImageView
+			    android:id="@+id/volume"
+			    android:src="@drawable/ic_action_volume_on"
+			    android:contentDescription="@string/volume" 
+			    android:layout_height="wrap_content"
+			    android:layout_width="wrap_content"
+			    android:layout_alignBottom="@+id/text"
+			    android:layout_alignTop="@+id/text"
+			    android:layout_toRightOf="@+id/text"
+			    android:layout_marginBottom="5dp"
+			    android:layout_centerVertical="true" />
+			
+	     </RelativeLayout>
+	    
+ 	   	<TextView
+	        android:id="@+id/license"
+	            android:text="@string/license"
+	            android:textSize="32sp"
+	            android:layout_margin="10dp"
+	            android:layout_width="wrap_content"
+	            android:layout_height="0dp"
+	        	android:layout_weight="1"
+	        	android:clickable="true"
+	        	/>
+ 	   	
+	    <TextView
+	        android:id="@+id/sign_out_button"
+	            android:text="@string/sign_out"
+	            android:textSize="32sp"
+	            android:layout_margin="10dp"
+	            android:layout_width="wrap_content"
+	            android:layout_height="0dp"
+	        	android:layout_weight="1"
+	        	android:clickable="true"
+	        	/>
+	</LinearLayout>
+        
+</RelativeLayout>

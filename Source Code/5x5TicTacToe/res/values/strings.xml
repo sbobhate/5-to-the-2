@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">5 To The 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">Game</string>
+    <string name="single_player_button">Single Player Button</string>
+    <string name="two_player_button">Two Player Button</string>
+    <string name="start_over_button">Start Over Button</string>
+    <string name="score_board_desc">Score Board</string>
+    <string name="conclusion_dialog">Game Conclusion</string>
+    <string name="new_game_button">New Game Button</string>
+    <string name="music_setting">Music :</string>
+    <string name="volume">Volume Control</string>
+    <string name="signing_in">Signing in with Google</string>
+    <string name="signing_out">Signing out</string>
+    <string name="sign_in_explanation">Sign In with Google to unlock achievements and share with friends.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="single_player">Single Player</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view achievements.</string>
+    <string name="show_achievements">Achievements</string>
+    <string name="show_leaderboards">Leaderboards</string>
+    <string name="title_activity_device_connect">Device Connect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_btmenu">BT Menu</string>
+    <string name="bt_connect">Connect</string>
+    <string name="start_game">Start Game</string>
+    <string name="bt">Bluetooth</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="found_devices">Found Devices</string>
+    <string name="scan">Scan</string>
+    <string name="license">License</string>
+
+</resources>
