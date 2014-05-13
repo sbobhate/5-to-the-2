@@ -2,8 +2,11 @@
 ==========
 
 **@ author Shantanu Bobhate**
+
 **         Mike Reavey**
+
 **         Fangliang Ye**
+
 **         Aseel Alkhabbaz**
 
 An improvised version of tic tac toe. 
