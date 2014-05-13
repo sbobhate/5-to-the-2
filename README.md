@@ -6,9 +6,9 @@
 5^2 was created to re-invent the old-time game of tic-tac-toe with a few additional twists.
 The objective is to get 4 in a row on a 5x5 grid. You can play against a computer or with your friends. We hope you enjoy the twists and challenges you encounter in this game.
 Features:
-- Leaderboards: 
+- Leaderboards:     
     Compete against friends and show off your skills! Track your progress!
-- Achievements: 
+- Achievements:     
 Try your luck at unlocking some achievements!
 - Dynamic Sound
 Enjoy the game as the background sound picks up the pace as your game progresses!
