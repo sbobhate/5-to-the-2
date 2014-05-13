@@ -9,10 +9,10 @@ Features:
 - Leaderboards:     
     Compete against friends and show off your skills! Track your progress!
 - Achievements:     
-Try your luck at unlocking some achievements!
-- Dynamic Sound
-Enjoy the game as the background sound picks up the pace as your game progresses!
-Listen for hints the sound gives you about your game status!
+    Try your luck at unlocking some achievements!
+- Dynamic Sound:        
+    Enjoy the game as the background sound picks up the pace as your game progresses! 
+    Listen for hints the sound gives you about your game status!
 - Bluetooth
 Challenge your friends in head-to-head game over a bluetooth connection!
 Game Modes:
